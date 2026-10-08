@@ -4,6 +4,11 @@ Ein Physik-Turmbauspiel, gemacht mit Unity. Blöcke fallen von oben – richte s
 
 **Direkt im Browser spielen:** https://timonbi97-gif.github.io/turmbau/
 
+## Neu in Version 1.4
+- **Konto mit Benutzername und Passwort:** Spielstand in der Cloud, auf mehreren Geräten weiterspielen
+- **Admin-Panel:** Spieler und ihre Daten ansehen, Münzen geben, Spielstände zurücksetzen, Konten löschen, Einträge aus der Bestenliste entfernen
+- Fehlerbehebung: Kollisionen von Meteoriten in der Web-Version
+
 ## Neu in Version 1.3
 - **Neue Block-Texturen:** Honig-Block mit Waben, Schleim-Block mit Blasen, genieteter Stahl, Ziegel, Eis mit Rissen, Anker-Emblem ...
 - **4 neue Blöcke:** Kristall (perfekt = +30 Münzen, sonst zerspringt er), Rakete (fällt kerzengerade), Regenbogen (Joker, zählt immer als PERFEKT), Bombe (explodiert nach 3 s)
